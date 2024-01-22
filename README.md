@@ -1,9 +1,10 @@
+ 
+# Senior Front End Developer
+
 ![Wavy_Bus-20_Single](https://github.com/Shruti/Shruti/assets/41289098/611553df-056e-4bfc-92d0-abc7a36f4910)
 
 
 # Hello! Welcome to my GitHub 👋
-
-### Front End Developer
 
 ![html](https://github.com/Shruti/Shruti/assets/41289098/42d176b6-f2f4-472f-920a-fcf78a48a166)![css](https://github.com/Shruti/Shruti/assets/41289098/d9353da9-37be-4181-8984-761d14eadfb8)
 ![js](https://github.com/Shruti/Shruti/assets/41289098/616a9c57-e467-45cb-aeee-15f3249bc11d)
@@ -49,6 +50,7 @@
  ![VS Code](https://github.com/Shruti/Shruti/assets/41289098/ebaeb0c7-e182-424e-90b9-6f31fe7a6497)![Visual Studio](https://github.com/Shruti/Shruti/assets/41289098/7de593e0-2b57-49d0-9a08-281a458b2e23)
 
  ![border](https://github.com/Shruti/Shruti/assets/41289098/bf8ba2f2-1070-4461-8b38-abb6222c4abe)
+
 
 
 
